@@ -73,7 +73,7 @@ PCBレイアウト
 
 ### ステップ1: 公式サイトへアクセス
 
-![KiCad公式サイト](figure/01_kicad_website.png)
+![KiCad公式サイト](01_figure/01_kicad_website.png)
 
 公式サイトにアクセスします：
 
@@ -85,7 +85,7 @@ https://www.kicad.org/
 
 ### ステップ2: ダウンロードページへ移動
 
-![OS選択ページ](figure/02_download_select_os.png)
+![OS選択ページ](01_figure/02_download_select_os.png)
 
 トップページの **"Download"** ボタンをクリックすると、OS選択ページが表示されます。
 
@@ -93,7 +93,7 @@ https://www.kicad.org/
 
 ### ステップ3: Windows版のダウンロード
 
-![Windows版ダウンロードページ](figure/03_windows_downloads.png)
+![Windows版ダウンロードページ](01_figure/03_windows_downloads.png)
 
 Windows版のダウンロードページが表示されます。
 
@@ -106,7 +106,7 @@ Windows版のダウンロードページが表示されます。
 サイズ: 約1.2GB
 ```
 
-![ダウンロード開始](figure/04_download_start.png)
+![ダウンロード開始](01_figure/04_download_start.png)
 
 「Thank you for downloading KiCad!」ページが表示され、ダウンロードが開始されます。
 
@@ -124,7 +124,7 @@ Windows版のダウンロードページが表示されます。
 
 ### ステップ2: セットアップウィザードの開始
 
-![セットアップウィザード](figure/05_setup_welcome.png)
+![セットアップウィザード](01_figure/05_setup_welcome.png)
 
 セットアップウィザードが起動し、「**Welcome to KiCad 9.0.6 Setup**」画面が表示されます。
 
@@ -132,7 +132,7 @@ Windows版のダウンロードページが表示されます。
 
 ### ステップ3: コンポーネントの選択
 
-![コンポーネント選択](figure/06_choose_components.png)
+![コンポーネント選択](01_figure/06_choose_components.png)
 
 「**Choose Components**」画面が表示されます。
 
@@ -154,7 +154,7 @@ Windows版のダウンロードページが表示されます。
 
 ### ステップ4: インストール先の選択
 
-![インストール先選択](figure/07_install_location.png)
+![インストール先選択](01_figure/07_install_location.png)
 
 「**Choose Install Location**」画面が表示されます。
 
@@ -172,7 +172,7 @@ C:\Program Files\KiCad\9.0
 
 ### ステップ5: インストール完了
 
-![インストール完了](figure/08_complete.png)
+![インストール完了](01_figure/08_complete.png)
 
 「**Completing KiCad 9.0.6 Setup**」画面が表示されます。
 
@@ -188,7 +188,7 @@ C:\Program Files\KiCad\9.0
 
 ### ステップ1: 初回設定ダイアログ
 
-![初回設定](figure/09_first_launch_config.png)
+![初回設定](01_figure/09_first_launch_config.png)
 
 KiCadを初めて起動すると、設定ダイアログが表示されます。
 
@@ -204,7 +204,7 @@ KiCadを初めて起動すると、設定ダイアログが表示されます。
 
 ### ステップ2: KiCadプロジェクトマネージャー
 
-![KiCadメイン画面](figure/10_kicad_main.png)
+![KiCadメイン画面](01_figure/10_kicad_main.png)
 
 KiCadプロジェクトマネージャーが表示されます。
 
